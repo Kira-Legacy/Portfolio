@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0
+}
+header nav ul{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    width: 95%;
+}
+header nav ul li{
+    margin-left: 1vw;
+    text-decoration: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px){
+    body{
+        overflow-x: hidden;
+    }
+    header nav ul{
+        flex-direction: column;
+        width: 95%;
+    }
+    header nav ul li{
+        margin-left: 1vw;
+    }
+}
