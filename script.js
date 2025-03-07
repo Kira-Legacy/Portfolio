@@ -6,11 +6,11 @@ function cancel(){
     const navbar = document.querySelector(".dropdown")
     navbar.style.transform = "translateY(-500px)"
 }
-// Typewriter Effect
+
 const texts = [
-    "PROGRAMMER",
     "DEVELOPER",
-    "DESIGNER"
+    "DESIGNER",
+    "PROGRAMMER",
 ]
 let speed  =100;
 const textElements = document.querySelector(".typewriter-text");
