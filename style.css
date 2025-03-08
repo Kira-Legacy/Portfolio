@@ -137,6 +137,9 @@ section {
 .main-container .image:hover {
     animation: animate 1.5s ease-in-out infinite;
 }
+section .content p{
+    text-align: justify;
+}
 
 .about-container {
     color: white;
@@ -146,14 +149,18 @@ section {
     font-size: 2rem;
     font-weight: bold;
 }
-
+#about{
+    justify-content: space-around;
+}
 .about-container h2 span {
     color: #077b32;
     text-shadow: 0 0 10px #077b32;
 }
-.aboutcontainer{
-    justify-content: space-around;
+
+.about-container{
+    margin: 0 50px 0 50px;
 }
+
 
 
 @keyframes animate {
