@@ -211,24 +211,27 @@ section {
     font-weight: 700;
     box-shadow: 0 0 40px #077b32;
 }
-.about-container{
+
+.about-container {
     justify-content: space-evenly;
     align-items: center;
 }
-.about-container p{
+
+.about-container p {
     text-align: justify;
 }
 
-section .content p{
+section .content p {
     text-align: justify;
 }
 
-#about h2{
+#about h2 {
     color: white;
     font-size: 2rem;
     font-weight: bold;
 }
-#about h2 span{
+
+#about h2 span {
     color: #077b32;
 }
 
@@ -237,19 +240,22 @@ section .content p{
     margin: 50px 75px 0px 75px;
 }
 
-#skills h2{
+#skills h2 {
     color: white;
 }
+
 #skills h2 span {
     color: #077b32;
     text-shadow: 0 0 10px #077b32;
 }
-.skill-container{
+
+.skill-container {
     color: white;
     display: flex;
     justify-content: space-around;
 }
-.skill-container h2 span{
+
+.skill-container h2 span {
     color: #077b32;
 }
 
