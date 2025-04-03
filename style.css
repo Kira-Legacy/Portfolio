@@ -109,7 +109,7 @@ nav {
     background-color: #077b32;
 }
 
-.samehere{
+.samehere {
     height: 100vh;
 }
 
@@ -234,7 +234,7 @@ nav {
     margin-top: 25px;
 }
 
-.about-container .aboutimgcont img{
+.about-container .aboutimgcont img {
     width: 100%;
     margin: 0 auto;
 }
@@ -270,7 +270,7 @@ section .content p {
     margin-top: 15px;
 }
 
-.skill-container .skillimgcont img{
+.skill-container .skillimgcont img {
     width: 100%;
 }
 
@@ -289,12 +289,12 @@ section .content p {
 }
 
 
-.graphicskill{
+.graphicskill {
     margin-top: 20px;
 
 }
 
-.hardwareskill{
+.hardwareskill {
     margin-top: 20px;
 }
 
@@ -354,7 +354,7 @@ section .content p {
     justify-content: end;
 }
 
-footer{
+footer {
     color: white;
     text-align: center;
     border: white 2px solid;
